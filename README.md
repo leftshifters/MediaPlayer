@@ -1,4 +1,1 @@
-MediaPlayer
-===========
-
-#Android Sample mediaplayer project
+Sample media player activity for android
